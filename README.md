@@ -53,5 +53,5 @@ Create a .env file in the root directory and configure your environment variable
 npm start
 ```
 5. Visit the Application:   
-Open your web browser and go to http://localhost:3000 to access BookWisher backend.
+Open your web browser and go to http://localhost:8080 to access BookWisher backend.
 
